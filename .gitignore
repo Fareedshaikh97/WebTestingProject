@@ -1,0 +1,34 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Database — don't upload data, only code
+database/test_results.db
+database/*.sqbpro
+
+# Log files
+logs/
+
+# Screenshots
+screenshots/
+
+# Report screenshots
+report/
+
+# Environment files
+.env
+venv/
+env/
+
+# VS Code settings
+.vscode/
+
+# Windows files
+Thumbs.db
+Desktop.ini
+
+# pytest cache
+.pytest_cache/
