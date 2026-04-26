@@ -1,0 +1,16 @@
+Description: 
+Automated Website Testing & Analytics Tool with Custom Test Builder — M.Sc. IT Final Year Project
+
+Website: Leave blank (add Render URL later)
+
+Topics: Click "Add topics" and add these tags:
+- selenium
+- python
+- flask
+- automation-testing
+- web-testing
+- selenium-webdriver
+- qa-automation
+- msc-project
+- analytics-dashboard
+- chartjs
